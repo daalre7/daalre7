@@ -157,8 +157,7 @@ Universidad de León — 2022
 Universidad de León — 2020
 
 **Certificado de Profesionalidad en Seguridad Informática — Grado B**  
-FOCYL — 2026 · 530 horas presenciales :contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}
-
+FOCYL — 2026 · 530 horas presenciales
 ---
 
 ## 🌍 Idiomas
