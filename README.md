@@ -36,7 +36,7 @@ Desarrollo y mantenimiento de software en **Ada** para el sistema de gestión de
 - Gestión y consulta de bases de datos MySQL.
 - Implementación de comunicaciones TCP/UDP.
 - Control de versiones mediante IBM DevOps Code ClearCase.
-- Gestión de tareas mediante Jira y WebIssues. :contentReference[oaicite:2]{index=2}
+- Gestión de tareas mediante Jira y WebIssues.
 
 ### Software Engineer — HP SCDS
 **Octubre 2022 – Mayo 2024**
@@ -47,7 +47,7 @@ Desarrollo de software en **C++**, trabajando tanto con arquitecturas Legacy com
 - Git y SVN.
 - Desarrollo de Unit Tests y System Tests.
 - Trabajo con metodologías ágiles y SCRUM.
-- Participación en actividades complementarias. :contentReference[oaicite:3]{index=3}
+- Participación en actividades complementarias.
 
 ### Alumno en prácticas — Deepcødes
 **Junio 2026 – Julio 2026**
@@ -60,7 +60,6 @@ Experiencia práctica centrada en **ciberseguridad y administración de sistemas
 - Trabajo con Kubuntu y Ubuntu Server.
 - Instalación y recuperación de sistemas.
 - Automatización de tareas mediante scripts.
-- Coordinación del grupo de prácticas y comunicación con el tutor. :contentReference[oaicite:4]{index=4}
 
 ---
 
