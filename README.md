@@ -176,5 +176,3 @@ FOCYL — 2026 · 530 horas presenciales
 🐙 [GitHub](https://github.com/daalre7)
 
 ---
-
-> *Always learning, building and improving.*
