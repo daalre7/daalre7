@@ -173,7 +173,7 @@ FOCYL — 2026 · 530 horas presenciales :contentReference[oaicite:5]{index=5} :
 
 📧 **david1997.alvarez@gmail.com**
 
-💼 [LinkedIn](#)
+💼 [LinkedIn](#https://www.linkedin.com/in/david-%C3%A1lvarez-re%C3%B1ones-6701a224b/)
 
 🐙 [GitHub](https://github.com/daalre7)
 
