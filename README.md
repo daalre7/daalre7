@@ -163,7 +163,7 @@ FOCYL — 2026 · 530 horas presenciales :contentReference[oaicite:5]{index=5} :
 
 ## 🌍 Idiomas
 
-**Inglés — Cambridge English: Advanced (CAE)** :contentReference[oaicite:7]{index=7}
+**Inglés — Cambridge English: Advanced (CAE)** 
 
 ---
 
