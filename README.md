@@ -10,16 +10,13 @@ Actualmente estoy orientando mi perfil hacia la **ciberseguridad**, combinando m
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Ingeniero Informático por la **Universidad de León**
-- 🎓 Máster Universitario en Ingeniería Informática
-- 💻 Experiencia como **Software Engineer**
-- 🔐 Especial interés en **ciberseguridad**
-- 🧩 Experiencia en **sistemas críticos y embebidos**
-- 🐧 Experiencia trabajando con **Linux y Windows**
-- 🌐 Conocimientos de redes y protocolos **TCP/UDP**
-- 🗄️ Experiencia trabajando con **MySQL**
-- 🧪 Experiencia en **Unit Tests, System Tests y simuladores**
-- 🚀 Interés en seguir creciendo profesionalmente en el ámbito de la seguridad informática.
+- 🎓 Ingeniero Informático y Máster en Ingeniería Informática
+- 💻 Experiencia en desarrollo de software y sistemas críticos
+- 🔐 Formación y experiencia práctica en ciberseguridad
+- 🐧 Experiencia con sistemas Linux y Windows
+- 🌐 Conocimientos de redes y protocolos TCP/IP y UDP
+- 🧪 Experiencia en testing y automatización
+- 🐍 Interés en utilizar programación y scripting para resolver problemas de seguridad
 
 ---
 
