@@ -1,24 +1,26 @@
 # 👋 Hola, soy David Álvarez
 
-### Ingeniero Informático | Software Engineer | Ciberseguridad
+### Ingeniero Informático · Software Engineer · Ciberseguridad
 
-Soy **Ingeniero Informático** por la Universidad de León. Mi experiencia profesional está principalmente relacionada con el desarrollo de software en **sistemas críticos**, trabajando con C++ y Ada, pruebas de software, bases de datos, redes y metodologías ágiles.
+Soy **Ingeniero Informático y Máster en Ingeniería Informática** por la Universidad de León. Mi experiencia profesional está principalmente relacionada con el desarrollo de software en **sistemas críticos**, trabajando con C++ y Ada, pruebas de software, bases de datos, redes y metodologías ágiles.
 
-Actualmente estoy orientando mi perfil hacia la **ciberseguridad**, combinando mi experiencia en desarrollo y sistemas con formación específica en seguridad informática.
+Actualmente estoy orientando mi perfil hacia la **ciberseguridad**, combinando mi experiencia en desarrollo y sistemas con formación específica y experiencia práctica en seguridad informática.
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
 - 🎓 Ingeniero Informático y Máster en Ingeniería Informática
-- 💻 Experiencia en desarrollo de software y sistemas críticos
+- 💻 Desarrollo de software y sistemas críticos
 - 🔐 Formación y experiencia práctica en ciberseguridad
-- 🐧 Experiencia con sistemas Linux y Windows
-- 🌐 Conocimientos de redes y protocolos TCP/IP y UDP
-- 🧪 Experiencia en testing y automatización
-- 🐍 Interés en utilizar programación y scripting para resolver problemas de seguridad
+- 🐧 Sistemas Linux y Windows
+- 🌐 Redes y protocolos TCP/IP y UDP
+- 🧪 Testing y automatización
+- 🐍 Programación y scripting aplicados a seguridad
 
 ---
+
+## 🛠️ Tecnologías
 
 ### 💻 Lenguajes
 
@@ -50,7 +52,9 @@ Actualmente estoy orientando mi perfil hacia la **ciberseguridad**, combinando m
 
 ### 🔐 Ciberseguridad
 
-Actualmente estoy ampliando mis conocimientos y experiencia práctica en:
+Repositorio donde documento progresivamente mi aprendizaje y experiencia práctica en ciberseguridad mediante apuntes, prácticas, laboratorios y proyectos personales.
+
+Actualmente estoy trabajando en áreas como:
 
 - 🔎 Auditoría de sistemas, redes y aplicaciones web
 - 🛡️ Monitorización y detección de amenazas
@@ -59,13 +63,13 @@ Actualmente estoy ampliando mis conocimientos y experiencia práctica en:
 - 🧪 Laboratorios y entornos virtualizados
 - 🐍 Automatización mediante scripting
 
-👉 [**CIBERSEGURIDAD**](https://github.com/daalre7/CIBERSEGURIDAD)
+👉 [**CIBERSEGURIDAD →**](https://github.com/daalre7/CIBERSEGURIDAD)
 
 ### 💻 Otros proyectos
 
-Proyectos desarrollados durante mi formación y experiencia académica, incluyendo desarrollo web, Python, bases de datos y análisis de datos.
+Proyectos desarrollados durante mi formación académica, incluyendo desarrollo web, Python, bases de datos y análisis de datos.
 
-👉 [**OTROS-PROYECTOS**](https://github.com/daalre7/OTROS-PROYECTOS)
+👉 [**OTROS-PROYECTOS →**](https://github.com/daalre7/OTROS-PROYECTOS)
 
 ---
 
@@ -80,20 +84,18 @@ Proyectos desarrollados durante mi formación y experiencia académica, incluyen
 ### Certificado de Profesionalidad en Seguridad Informática — Grado B
 **FOCYL** — 2026 · 530 horas presenciales
 
+---
+
 ## 🌍 Idiomas
 
-**Inglés — Cambridge English: Advanced (CAE)** 
+**Inglés** — Cambridge English: Advanced (CAE)
 
 ---
 
 ## 📫 Contacto
 
+💼 [**LinkedIn**](https://www.linkedin.com/in/david-%C3%81lvarez-re%C3%B1ones-6701a224/)
+
+🐙 [**GitHub**](https://github.com/daalre7)
+
 📍 León, España
-
-📧 **david1997.alvarez@gmail.com**
-
-💼 [LinkedIn](https://www.linkedin.com/in/david-%C3%A1lvarez-re%C3%B1ones-6701a224b/)
-
-🐙 [GitHub](https://github.com/daalre7)
-
----
