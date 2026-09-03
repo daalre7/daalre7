@@ -2,7 +2,7 @@
 
 ### Ingeniero Informático | Software Engineer | Ciberseguridad
 
-Soy **Ingeniero Informático** y **Máster Universitario en Ingeniería Informática** por la Universidad de León. Mi experiencia profesional está principalmente relacionada con el desarrollo de software en **sistemas críticos**, trabajando con C++ y Ada, pruebas de software, bases de datos, redes y metodologías ágiles. :contentReference[oaicite:1]{index=1}
+Soy **Ingeniero Informático** por la Universidad de León. Mi experiencia profesional está principalmente relacionada con el desarrollo de software en **sistemas críticos**, trabajando con C++ y Ada, pruebas de software, bases de datos, redes y metodologías ágiles. :contentReference[oaicite:1]{index=1}
 
 Actualmente estoy orientando mi perfil hacia la **ciberseguridad**, combinando mi experiencia en desarrollo y sistemas con formación específica en seguridad informática.
 
