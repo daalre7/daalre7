@@ -19,131 +19,56 @@ Actualmente estoy orientando mi perfil hacia la **ciberseguridad**, combinando m
 - 🌐 Conocimientos de redes y protocolos **TCP/UDP**
 - 🗄️ Experiencia trabajando con **MySQL**
 - 🧪 Experiencia en **Unit Tests, System Tests y simuladores**
-- 🚀 Interés en seguir creciendo profesionalmente en el ámbito de la seguridad informática
+- 🚀 Interés en seguir creciendo profesionalmente en el ámbito de la seguridad informática.
 
 ---
 
-## 💼 Experiencia
+### 💻 Lenguajes
 
-### Software Engineer — INDRA
-**Octubre 2024 – Octubre 2025**
-
-Desarrollo y mantenimiento de software en **Ada** para el sistema de gestión del tráfico aéreo **ManagAIR / ATM**.
-
-- Desarrollo de nuevas funcionalidades.
-- Resolución de incidencias.
-- Soporte mediante simuladores.
-- Gestión y consulta de bases de datos MySQL.
-- Implementación de comunicaciones TCP/UDP.
-- Control de versiones mediante IBM DevOps Code ClearCase.
-- Gestión de tareas mediante Jira y WebIssues.
-
-### Software Engineer — HP SCDS
-**Octubre 2022 – Mayo 2024**
-
-Desarrollo de software en **C++**, trabajando tanto con arquitecturas Legacy como con nuevos desarrollos.
-
-- Desarrollo en C++.
-- Git y SVN.
-- Desarrollo de Unit Tests y System Tests.
-- Trabajo con metodologías ágiles y SCRUM.
-- Participación en actividades complementarias.
-
-### Alumno en prácticas — Deepcødes
-**Junio 2026 – Julio 2026**
-
-Experiencia práctica centrada en **ciberseguridad y administración de sistemas**.
-
-- Auditoría de equipos, redes y páginas web.
-- Instalación y configuración de Wazuh.
-- Uso de Suricata.
-- Trabajo con Kubuntu y Ubuntu Server.
-- Instalación y recuperación de sistemas.
-- Automatización de tareas mediante scripts.
-
----
-
-## 🛠️ Tecnologías
-
-### Lenguajes
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Ada](https://img.shields.io/badge/Ada-02f88c?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+`C++` · `Ada` · `Python` · `Bash` · `SQL`
 
 ### 🔐 Ciberseguridad
 
-- Wazuh
-- Suricata
-- Nmap
-- VirusTotal
-- VeraCrypt
-- Kleopatra
-- AutoFirma
-- KeePassXC
-- LastPass
+`Wazuh` · `Suricata` · `Nmap` · `Wireshark` · `VirusTotal`
 
 ### 🖥️ Sistemas y virtualización
 
-- Linux
-- Windows
-- Oracle VM VirtualBox
-- Proxmox VE
-- Ubuntu Server
-- Kubuntu
-
-### 🔧 Herramientas
-
-- Git
-- SVN
-- IBM DevOps Code ClearCase
-- Jira
-- WebIssues
-- OCS Inventory NG
-- VSCode
-- GitHub Copilot
+`Linux` · `Windows` · `Ubuntu Server` · `Kubuntu` · `Proxmox` · `VirtualBox`
 
 ### 🌐 Redes
 
-- TCP/IP
-- UDP
-- Nmap
-- Advanced IP Scanner
+`TCP/IP` · `UDP` · `Nmap`
 
 ### 🗄️ Bases de datos
 
-- MySQL
+`MySQL`
+
+### 🔧 Herramientas
+
+`Git` · `SVN` · `Jira` · `IBM DevOps Code ClearCase`
 
 ---
 
 ## 📂 Proyectos
 
-Aquí puedes encontrar algunos de mis proyectos y trabajos realizados durante mi formación y experiencia:
-
-### 🧠 Aplicación táctil para estimulación cognitiva
-
-Aplicación web orientada a la estimulación cognitiva mediante ejercicios interactivos.
-
-**PHP · MySQL · JavaScript · HTML · CSS**
-
-[Ver proyecto](https://github.com/daalre7/OTROS-PROYECTOS)
-
-### 🐦 Captura y análisis de datos de Twitter
-
-Proyecto de recopilación y experimentación con datos procedentes de Twitter utilizando Python y diferentes herramientas de acceso a su API.
-
-**Python · Tweepy · Twarc · Twitter API**
-
-[Ver proyecto](https://github.com/daalre7/OTROS-PROYECTOS)
-
 ### 🔐 Ciberseguridad
 
-Repositorio donde recopilo diferentes prácticas, herramientas y proyectos relacionados con ciberseguridad.
+Actualmente estoy ampliando mis conocimientos y experiencia práctica en:
 
-[Ver repositorio](https://github.com/daalre7/CIBERSEGURIDAD)
+- 🔎 Auditoría de sistemas, redes y aplicaciones web
+- 🛡️ Monitorización y detección de amenazas
+- 📡 Análisis de tráfico de red
+- 🐧 Seguridad y administración de sistemas Linux
+- 🧪 Laboratorios y entornos virtualizados
+- 🐍 Automatización mediante scripting
+
+👉 [**CIBERSEGURIDAD**](https://github.com/daalre7/CIBERSEGURIDAD)
+
+### 💻 Otros proyectos
+
+Proyectos desarrollados durante mi formación y experiencia académica, incluyendo desarrollo web, Python, bases de datos y análisis de datos.
+
+👉 [**OTROS-PROYECTOS**](https://github.com/daalre7/OTROS-PROYECTOS)
 
 ---
 
