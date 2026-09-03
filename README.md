@@ -149,15 +149,14 @@ Repositorio donde recopilo diferentes prácticas, herramientas y proyectos relac
 
 ## 🎓 Formación
 
-**Máster Universitario en Ingeniería Informática**  
-Universidad de León — 2022
+### Máster Universitario en Ingeniería Informática
+**Universidad de León** — 2022
 
-**Grado en Ingeniería Informática**  
-Universidad de León — 2020
+### Grado en Ingeniería Informática
+**Universidad de León** — 2020
 
-**Certificado de Profesionalidad en Seguridad Informática — Grado B**  
-FOCYL — 2026 · 530 horas presenciales
----
+### Certificado de Profesionalidad en Seguridad Informática — Grado B
+**FOCYL** — 2026 · 530 horas presenciales
 
 ## 🌍 Idiomas
 
